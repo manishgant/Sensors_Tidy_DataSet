@@ -1,4 +1,4 @@
-##Tidy Data-set from Samsun Phone's accelerometer readings
+##Tidy Data-set from Samsung Phone's accelerometer readings
 ========================================================
 1. Unzip the source ( https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip )
    into a folder on your local drive, say C:\Users\yourname\Documents\R\
